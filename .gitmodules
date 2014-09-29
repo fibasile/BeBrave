@@ -1,0 +1,6 @@
+[submodule "libs/Adafruit_NeoPixel"]
+	path = libs/Adafruit_NeoPixel
+	url = https://github.com/adafruit/Adafruit_NeoPixel.git
+[submodule "libs/Adafruit_Thermal_Printer_Library"]
+	path = libs/Adafruit_Thermal_Printer_Library
+	url = https://github.com/adafruit/Adafruit-Thermal-Printer-Library
